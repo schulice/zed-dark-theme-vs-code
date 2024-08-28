@@ -18,7 +18,7 @@
     "statusBar.noFolderBackground": "#3b414d",
     "statusBar.foreground": "#c8ccd4",
     "tab.activeBorder": "#74ade8",
-    "tab.activeBackground": "#1a1d20",
+    "tab.activeBackground": "#202427",
     "tab.inactiveBackground": "#2f343e",
     "tab.activeForeground": "#c8ccd4",
     "tab.inactiveForeground": "#838994",
@@ -170,7 +170,8 @@
     {
       "scope": [
         "variable.other.property",
-        "variable.other.object.property"
+        "variable.other.object.property",
+        "meta.attribute"
       ],
       "settings": {
         "foreground": "#c37779"
