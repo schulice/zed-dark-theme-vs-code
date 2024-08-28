@@ -120,7 +120,8 @@
     {
       "scope": [
         "variable.language",
-        "variable.other"
+        "variable.other",
+        "variable.parameter.function-call.python"
       ],
       "settings": {
         "foreground": "#c8ccd4"
