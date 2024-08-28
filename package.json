@@ -9,7 +9,7 @@
     "vscode": "^1.91.0"
   },
   "scripts": {
-    "package": "npx vsce package"
+    "package": "npx @vscode/vsce package"
   },
   "repository": {
     "type": "git",
