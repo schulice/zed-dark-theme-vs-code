@@ -2,7 +2,7 @@
   "name": "ZED One Dark",
   "type": "dark",
   "colors": {
-    "editor.background": "#282c33",
+    "editor.background": "#25272d",
     "editor.foreground": "#acb2be",
     "activityBarBadge.background": "#74ade8",
     "sideBarTitle.foreground": "#acb2be",
@@ -18,7 +18,7 @@
     "statusBar.noFolderBackground": "#3b414d",
     "statusBar.foreground": "#c8ccd4",
     "tab.activeBorder": "#74ade8",
-    "tab.activeBackground": "#282c33",
+    "tab.activeBackground": "#1a1d20",
     "tab.inactiveBackground": "#2f343e",
     "tab.activeForeground": "#c8ccd4",
     "tab.inactiveForeground": "#838994",
@@ -49,13 +49,18 @@
   },
   "tokenColors": [
     {
-      "scope": ["comment", "punctuation.definition.comment"],
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
       "settings": {
-        "foreground": "#5d636f"
+        "foreground": "#979aa1"
       }
     },
     {
-      "scope": ["string"],
+      "scope": [
+        "string"
+      ],
       "settings": {
         "foreground": "#a1c181"
       }
@@ -72,71 +77,148 @@
       }
     },
     {
-      "scope": ["keyword"],
+      "scope": [
+        "keyword"
+      ],
       "settings": {
         "foreground": "#b477cf"
       }
     },
     {
-      "scope": ["storage"],
+      "scope": [
+        "storage"
+      ],
       "settings": {
         "foreground": "#b477cf"
       }
     },
     {
-      "scope": ["storage.type", "support.type"],
+      "scope": [
+        "support.type"
+      ],
       "settings": {
         "foreground": "#6eb4bf"
       }
     },
     {
-      "scope": ["entity.name.function", "support.function"],
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
       "settings": {
         "foreground": "#73ade9"
       }
     },
     {
-      "scope": ["variable"],
+      "scope": [
+        "variable"
+      ],
       "settings": {
         "foreground": "#c8ccd4"
       }
     },
     {
-      "scope": ["variable.language", "variable.other"],
+      "scope": [
+        "variable.language",
+        "variable.other"
+      ],
       "settings": {
         "foreground": "#c8ccd4"
       }
     },
     {
-      "scope": ["invalid"],
+      "scope": [
+        "invalid"
+      ],
       "settings": {
         "foreground": "#d07277"
       }
     },
     {
-      "scope": ["entity.name.type", "entity.other.inherited-class"],
+      "scope": [
+        "entity.name.type",
+        "entity.other.inherited-class"
+      ],
       "settings": {
         "foreground": "#6eb4bf"
       }
     },
     {
-      "scope": ["tag"],
+      "scope": [
+        "tag"
+      ],
       "settings": {
         "foreground": "#74ade8"
       }
-    }
+    },
+    {
+      "scope": "support.class.component",
+      "settings": {
+        "foreground": "#78A9B4"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name",
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#80abe3"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.property",
+        "variable.other.object.property"
+      ],
+      "settings": {
+        "foreground": "#c37779"
+      }
+    },
+    {
+      "scope": "storage.type",
+      "settings": {
+        "foreground": "#B477CF"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator",
+        "storage.type.function.arrow"
+      ],
+      "settings": {
+        "foreground": "#6EB4BF"
+      }
+    },
   ],
   "semanticHighlighting": true,
-
   "semanticTokenColors": {
-    "variable": { "foreground": "#c8ccd4" },
-    "parameter": { "foreground": "#c8ccd4" },
-    "property": { "foreground": "#c8ccd4" },
-    "function": { "foreground": "#73ade9" },
-    "class": { "foreground": "#6eb4bf" },
-    "keyword": { "foreground": "#b477cf" },
-    "string": { "foreground": "#a1c181" },
-    "number": { "foreground": "#bf956a" },
-    "type": { "foreground": "#6eb4bf" }
+    "variable": {
+      "foreground": "#c8ccd4"
+    },
+    "parameter": {
+      "foreground": "#c8ccd4"
+    },
+    "property": {
+      "foreground": "#c37779"
+    },
+    "function": {
+      "foreground": "#73ade9"
+    },
+    "class": {
+      "foreground": "#6eb4bf"
+    },
+    "keyword": {
+      "foreground": "#b477cf"
+    },
+    "string": {
+      "foreground": "#a1c181"
+    },
+    "number": {
+      "foreground": "#bf956a"
+    },
+    "type": {
+      "foreground": "#6eb4bf"
+    }
   }
 }
