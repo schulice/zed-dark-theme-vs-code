@@ -2,7 +2,7 @@
 
 Many popular editors like IntelliJ and Zed come with beautifully crafted default color themes. However, I struggled to find a dark theme for VS Code that matched such quality.
 
-This theme is a fork of [Zed One Dark](https://marketplace.visualstudio.com/items?itemName=ARRRRNY.zed-one-theme), which is inspired by the default dark theme of the Zed editor. My version focuses on enhancing React JSX syntax highlighting and adjusts several colors to align more closely with the original Zed theme. While it doesn't replicate the Zed theme entirely—due to inherent differences between VS Code and Zed—I believe it offers a visually pleasing alternative for VS Code users.
+This theme is a fork of [Zed One Dark](https://marketplace.visualstudio.com/items?itemName=ARRRRNY.zed-one-theme), which is inspired by the default dark theme of the Zed editor. My version focuses on enhancing React JSX syntax highlighting and adjusts several colors to align more closely with the original Zed theme. While it doesn't replicate the Zed theme entirely—due to inherent differences between VS Code and Zed—I hope it brings a visually pleasing alternative for VS Code users.
 
 ### Installation
 
