@@ -17,11 +17,11 @@ To install this theme:
 
 #### React
 
-![React](https://github.com/hagent/zed-dark-theme-vs-code/raw/main/images/react.png)
+![React](https://github.com/hagent/zed-dark-theme-vs-code/blob/master/images/react.png?raw=true)
 
 #### Python
 
-![Python](https://github.com/hagent/zed-dark-theme-vs-code/raw/main/images/python.png)
+![Python](https://github.com/hagent/zed-dark-theme-vs-code/blob/master/images/python.png?raw=true)
 
 ### License
 
