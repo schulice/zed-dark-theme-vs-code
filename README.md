@@ -11,7 +11,7 @@ To install this theme:
 1. Open the Extensions view in VS Code (`Ctrl + Shift + X` or `Cmd + Shift + X` on macOS).
 2. Search for `Zed Editor Dark Theme`.
 3. Click `Install` to install the theme.
-4. Open the Command Palette (`Ctrl + Shift + P` or `Cmd + Shift + P` on macOS) and type `Color Theme`, then select `Zed Dark Theme`.
+4. Open the Command Palette (`Ctrl + Shift + P` or `Cmd + Shift + P` on macOS) and type `Color Theme`, then select `Zed Editor Dark Theme`.
 
 ### Screenshots
 
