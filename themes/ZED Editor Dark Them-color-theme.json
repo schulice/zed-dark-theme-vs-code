@@ -4,6 +4,8 @@
   "colors": {
     "editor.background": "#25272d",
     "editor.foreground": "#acb2be",
+    "editorBracketHighlight.foreground1": "#B3B9C5",
+    "editorBracketHighlight.foreground2": "#ab7aca",
     "activityBarBadge.background": "#74ade8",
     "sideBarTitle.foreground": "#acb2be",
     "list.activeSelectionBackground": "#454a56",
