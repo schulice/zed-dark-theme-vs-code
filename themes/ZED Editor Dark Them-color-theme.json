@@ -78,18 +78,12 @@
     },
     {
       "scope": [
-        "keyword"
+        "keyword",
+        "storage",
+        "storage.type"
       ],
       "settings": {
-        "foreground": "#b477cf"
-      }
-    },
-    {
-      "scope": [
-        "storage"
-      ],
-      "settings": {
-        "foreground": "#b477cf"
+        "foreground": "#ab7aca"
       }
     },
     {
@@ -178,12 +172,6 @@
       }
     },
     {
-      "scope": "storage.type",
-      "settings": {
-        "foreground": "#B477CF"
-      }
-    },
-    {
       "scope": [
         "keyword.operator",
         "storage.type.function.arrow"
@@ -211,7 +199,7 @@
       "foreground": "#6eb4bf"
     },
     "keyword": {
-      "foreground": "#b477cf"
+      "foreground": "#ab7aca"
     },
     "string": {
       "foreground": "#a1c181"
