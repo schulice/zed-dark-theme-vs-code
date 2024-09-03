@@ -99,7 +99,8 @@
     {
       "scope": [
         "entity.name.function",
-        "support.function"
+        "support.function",
+        "meta.function-call.generic"
       ],
       "settings": {
         "foreground": "#73ade9"
