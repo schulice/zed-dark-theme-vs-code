@@ -42,7 +42,7 @@
     "badge.background": "#74ade8",
     "badge.foreground": "#ffffff",
     "quickInput.background": "#30343d",
-    "quickInputList.focusBackground": "#373c45",
+    "quickInputList.focusBackground": "#464a55",
     "terminal.background": "#282c33",
     "terminal.foreground": "#c8ccd4",
     "terminal.ansiBlack": "#282c33",
