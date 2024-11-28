@@ -16,6 +16,7 @@
     "sideBar.foreground": "#c8ccd4",
     "sideBar.border": "#464b57",
     "titleBar.activeBackground": "#3b414d",
+    "titleBar.inactiveBackground": "#3b414d",
     "activityBar.activeBackground": "#3b414d",
     "activityBar.background": "#3b414d",
     "statusBar.background": "#3b414d",
